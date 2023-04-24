@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,sinar
+#EXTVLCOPT:network-caching=1000
+http://astro2.rastream.com/sinar
+#EXTINF:0,3A0rVY1
+#EXTVLCOPT:network-caching=1000
+https://bit.ly/3A0rVY1
+#EXTINF:0,stream
+#EXTVLCOPT:network-caching=1000
+https://rlrockjiwang.radioca.st/stream
