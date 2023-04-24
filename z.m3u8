@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1,Malaysia TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+
+#EXTINF:-1,Malaysia TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
+
+#EXTINF:-1,Indonesia 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,Indonesia 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682338089/ei/yRxGZPivFPyY6QK9hZn4Dg/ip/3.134.238.10/id/IsXMe-W04os.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPe--GrgsvdyhEX7o6ikmd-kX0RjJwBZODV_vNgDPQ4QAiEArUyx_frzLNP3WL_eD4ECaw4xJPcYh_HPMMy0Wshypyg%3D/file/index.m3u8
+
+#EXTINF:-1,Indonesia 3
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,Indonesia 3
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1,Amerika
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1,Dubai 1
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1,Dubai 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1,Korea 1
+http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+
+#EXTINF:-1,Korea 2
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+
+#EXTINF:-1,Korea 3
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
